@@ -1,0 +1,6 @@
+[
+ {"id":"hook_1","pos":null,"stage1_s":60,"stage2_struggle_s":60,"rescue_time_s":3,"audio_ref":"aud_hook_scream"},
+ {"id":"hook_2","pos":null,"stage1_s":60,"stage2_struggle_s":60,"rescue_time_s":3,"audio_ref":"aud_hook_scream"},
+ {"id":"hook_3","pos":null,"stage1_s":60,"stage2_struggle_s":60,"rescue_time_s":3,"audio_ref":"aud_hook_scream"},
+ {"id":"hook_4","pos":null,"stage1_s":60,"stage2_struggle_s":60,"rescue_time_s":3,"audio_ref":"aud_hook_scream"}
+]

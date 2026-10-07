@@ -1,0 +1,7 @@
+[
+ {"id":"aud_heartbeat","trigger":"killer_within_terror_radius","dbd_source":"{game:dead-by-daylight}","dbd_file":null,"verified_readable":false},
+ {"id":"aud_terror_radius","trigger":"killer_within_32_blocks","dbd_source":"{game:dead-by-daylight}","dbd_file":null,"verified_readable":false},
+ {"id":"aud_generator_loop","trigger":"generator_being_repaired","dbd_source":"{game:dead-by-daylight}","dbd_file":null,"verified_readable":false},
+ {"id":"aud_chase","trigger":"killer_has_line_of_sight_and_close","dbd_source":"{game:dead-by-daylight}","dbd_file":null,"verified_readable":false},
+ {"id":"aud_hook_scream","trigger":"survivor_hooked","dbd_source":"{game:dead-by-daylight}","dbd_file":null,"verified_readable":false}
+]

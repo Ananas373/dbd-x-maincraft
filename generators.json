@@ -1,0 +1,7 @@
+[
+ {"id":"gen_1","pos":null,"charge_time_s":80,"skill_check_interval_s":[8,15],"skill_check_fail_penalty_pct":5,"audio_ref":"aud_generator_loop"},
+ {"id":"gen_2","pos":null,"charge_time_s":80,"skill_check_interval_s":[8,15],"skill_check_fail_penalty_pct":5,"audio_ref":"aud_generator_loop"},
+ {"id":"gen_3","pos":null,"charge_time_s":80,"skill_check_interval_s":[8,15],"skill_check_fail_penalty_pct":5,"audio_ref":"aud_generator_loop"},
+ {"id":"gen_4","pos":null,"charge_time_s":80,"skill_check_interval_s":[8,15],"skill_check_fail_penalty_pct":5,"audio_ref":"aud_generator_loop"},
+ {"id":"gen_5","pos":null,"charge_time_s":80,"skill_check_interval_s":[8,15],"skill_check_fail_penalty_pct":5,"audio_ref":"aud_generator_loop"}
+]

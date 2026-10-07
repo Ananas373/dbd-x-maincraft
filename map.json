@@ -1,0 +1,5 @@
+[
+ {"id":"spawn_survivor","pos":null},
+ {"id":"spawn_killer","pos":null},
+ {"id":"trial_map","size_blocks":[160,160],"generators":5,"hooks":4,"gates":2,"built":false}
+]

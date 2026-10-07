@@ -1,0 +1,4 @@
+[
+ {"id":"survivor","max_players":4,"min_players":1,"health_states":["healthy","injured","downed","hooked","dead"],"move_speed":1.0,"can_repair":true,"can_attack":false,"can_hook":false,"spawn":"spawn_survivor"},
+ {"id":"killer","max_players":1,"min_players":1,"health_states":["healthy"],"move_speed":1.15,"can_repair":false,"can_attack":true,"can_hook":true,"spawn":"spawn_killer"}
+]

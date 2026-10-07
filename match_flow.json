@@ -1,0 +1,6 @@
+[
+ {"id":"lobby","next":"countdown","condition":"all_players_picked_role AND killer_count==1 AND survivor_count>=1","role_ref":"survivor"},
+ {"id":"countdown","duration_s":10,"next":"trial","condition":"timer_done","role_ref":"killer"},
+ {"id":"trial","next":"result","condition":"all_survivors_dead_or_escaped","role_ref":"survivor"},
+ {"id":"result","next":"lobby","duration_s":15,"win_killer":"no_survivor_escaped_alive_majority","win_survivors":"at_least_2_escaped","role_ref":"killer"}
+]

@@ -1,0 +1,4 @@
+[
+ {"id":"gate_1","pos":null,"open_time_s":20,"requires_generators_done":5},
+ {"id":"gate_2","pos":null,"open_time_s":20,"requires_generators_done":5}
+]
